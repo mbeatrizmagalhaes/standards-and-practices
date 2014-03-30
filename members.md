@@ -73,6 +73,7 @@ Format:
 | Austin Walker | [awalker4](https://github.com/awalker4) | Sophomore CS student with 2 semesters worth of Java. I also know some Python, and I'm starting to play around in C.||
 | Avijeet Sachdev | [avijeets](https://github.com/avijeets) ||
 | Avneesh Chadha | [avneesh91](https://github.com/avneesh91) |Self taught programmer. Exprience with Java, and a little python. Looking for mentors and guidance.Want to experience Open source development.Eventually want to go into kernel programming. |
+|Beatriz Magalhães | [mbeatrizmagalhaes](https://github.com/mbeatrizmagalhaes) | Electrical Engineering student. Still a begginer at programming and completely new to git. |
 | Benjamin Campbell | [benjic](https://github.com/benjic) ||
 | Benjamin Hipple | [brhCS](https://github.com/brhCS) | Experience with Java, new to contributing to open source projects ||
 | Benjamin Radcliffe | [benradcliffe](https://github.com/benradcliffe) ||
